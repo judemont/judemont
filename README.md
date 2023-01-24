@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**judemont/judemont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello World👋</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/judemont">
+    <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=judemont&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+</a>
+
+<br></br>
+
+<ul>
+    <li>My username🪪 : judemont</li>
+    <li>My second username🪪 : jdm</li>
+    <li>My Website🖥️ : <a href="https://rmbi.ch/jdm/">rmbi.ch/jdm</a> </li>
+    
+</ul>
+
+<h2>Level :</h2>
+<br>
+<img src="https://rmbi.ch/jdm/jdm_website/img/level.png" alt="">
