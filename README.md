@@ -24,6 +24,7 @@
 <br>
 
 <img src='./ctb.svg' />
+<i>Thank to <a href = 'https://github.com/insolitum' >@insolitum</a> for the animation.</i>
 <br>
 
 <h2>Level :</h2>
