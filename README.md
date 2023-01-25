@@ -3,15 +3,16 @@
 
 
 <a href="https://github.com/judemont">
-    <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=judemont&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+    <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=judemont&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="judemont's Github Stats" height="180rem" />
 </a>
 
 <br></br>
 
 <ul>
-    <li>My username🪪 : judemont</li>
-    <li>My second username🪪 : jdm</li>
+    <li>My username🧒 : judemont</li>
+    <li>My second username👦🏻 : jdm</li>
     <li>My Website🖥️ : <a href="https://rmbi.ch/jdm/">rmbi.ch/jdm</a> </li>
+    <li>My favorites languages🥸 : Python, Javascript
     
 </ul>
 
