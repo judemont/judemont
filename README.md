@@ -6,8 +6,8 @@
     <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=judemont&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="judemont's Github Stats" height="180rem" />
 </a>
 
-<br>
 
+<p >Visitor count</p>
 <img src = 'https://profile-counter.glitch.me/judemont/count.svg'/>
 
 <br></br>
