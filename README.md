@@ -2,15 +2,9 @@
 <h1>Hello World👋</h1>
 
 
-<a href="https://github.com/judemont">
-    <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=judemont&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="judemont's Github Stats" height="180rem" />
-</a>
 
 
-<p >Visitor count</p>
-<img src = 'https://profile-counter.glitch.me/judemont/count.svg'/>
 
-<br></br>
 
 <ul>
     <li>My username🧒 : judemont</li>
@@ -23,8 +17,7 @@
 
 <br>
 
-<img src='./ctb.svg' />
-<i>Thank to <a href = 'https://github.com/insolitum' >@insolitum</a> for the animation.</i>
+
 <br>
 
 <h2>Level :</h2>
