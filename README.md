@@ -15,11 +15,3 @@
 </ul>
 
 
-<br>
-
-
-<br>
-
-<h2>Level :</h2>
-<br>
-<img src="https://rmbi.ch/jdm/jdm_website/img/level.png" alt="">
