@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, ReactJS**
 
-- 👨‍💻 All is on my WebSite : [https://rmbi.ch/jdm](https://rmbi.ch/jdm)
+- 👨‍💻 All is on my WebSite : [https://rmbi.ch/jdm](https://judemont.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
