@@ -17,4 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=judemont&show_icons=true&locale=en&layout=compact" alt="judemont" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=judemont&show_icons=true&theme=dracula&cache_seconds=1000&locale=en" alt="judemont" /></p>
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=judemont&theme=dracula
