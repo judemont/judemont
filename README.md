@@ -2,7 +2,7 @@
 <h3 align="center">Passionate developer with expertise in Python and web development, dedicated to building innovative solutions with a commitment to open source values.</h3>
 
 
-- 👨‍💻 All is on my WebSite : [judemont.github.io](https://judemont.github.io)
+- 👨‍💻 All is on my WebSite : [rmbi.ch/jdm](https://jrmbi.ch/jdm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
