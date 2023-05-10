@@ -1,3 +1,4 @@
+> _This readme is based on the [@Asteroidus](https://github.com/AstroidusTv)'s readme._
 # Hello ! 
 ## 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
 ### Languages
@@ -32,3 +33,5 @@
 <br> Telegram : <a href="https://t.me/judemont">t.me/judemont</a> 
 <br> Discord: judemont#9173 
 <br> Email : <a href="mailto:julien@rmbi.ch?subject=Hi JdM !">julien@rmbi.ch</a>
+
+
