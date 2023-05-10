@@ -27,6 +27,8 @@
 
 
 <h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://t.me/judemont" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96385330/230026060-bf0e8a78-cc26-4bef-befc-2954bf650572.svg" alt="9173" height="30" width="40" /></a>
-</p>
+📞 You can contact me with: 
+<br> GitHub : <a href="https://github.com/judemont">github.com/judemont</a> 
+<br> Telegram : <a href="https://t.me/judemont">t.me/judemont</a> 
+<br> Discord: judemont#9173 
+<br> Email : <a href="mailto:julien@rmbi.ch?subject=Hi JdM !">julien@rmbi.ch</a>
