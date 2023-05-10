@@ -19,7 +19,7 @@
 * Sciences
 
 
-### I'm from switzerland 🇨🇭 and I speak French and some English.
+### I'm from switzerland 🇨🇭, I speak French and some English.
 
 
 ## Have fun with my repositories.
