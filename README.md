@@ -1,5 +1,11 @@
 # Hello ! 
-## My name is JdM (Pseudo) and I love programming in many languages. I also want to learn Rust and Dart.
+## 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
+### Languages
+1. Python
+2. JavaScript/TypeScript
+3. PHP
+4. html
+5. css
 ## You can visit my website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
 ### I am part of the Organization: [Asterjdm](https://github.com/asterjdm) and [Feur Company](https://gihub.com/FeurCompany). I co-founded Asterjdm with my friend [@Asteroidus](https://github.com/AstroidusTv). And I also co-founded [The Feur Company](https://gihub.com/FeurCompany) with my friend [@ronzaigu](https://github.com/ronzaigu) to make funny (but cool) repos. 
