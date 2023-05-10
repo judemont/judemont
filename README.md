@@ -26,8 +26,8 @@
 
 
 
-<h3 align="left">Contact me:</h3>
-📞 You can contact me with: 
+
+## 📞 You can contact me with: 
 <br> GitHub : <a href="https://github.com/judemont">github.com/judemont</a> 
 <br> Telegram : <a href="https://t.me/judemont">t.me/judemont</a> 
 <br> Discord: judemont#9173 
