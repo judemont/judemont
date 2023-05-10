@@ -1,5 +1,6 @@
 > _This readme is based on the [@Asteroidus](https://github.com/AstroidusTv)'s readme._
 # Hello ! 
+
 ## 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
 ### Languages
 1. Python
@@ -35,3 +36,5 @@
 <br> Email : <a href="mailto:julien@rmbi.ch?subject=Hi JdM !">julien@rmbi.ch</a>
 
 
+<h2 align="center">Top Languages</h2>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judemont&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
