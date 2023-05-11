@@ -10,7 +10,7 @@
 5. css
 ## You can visit my website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
-### I am part of the Organization: [Asterjdm](https://github.com/asterjdm) and [Feur Company](https://github.com/FeurCompany). I co-founded Asterjdm with my friend [@Asteroidus](https://github.com/AstroidusTv). And I also co-founded [The Feur Company](https://github.com/FeurCompany) with my friend [@ronzaigu](https://github.com/ronzaigu) to make funny (but cool) repos. 
+### I am part of the Organization: [Asterjdm](https://github.com/asterjdm) and [Feur Company](https://github.com/Feur-Company). I co-founded Asterjdm with my friend [@Asteroidus](https://github.com/AstroidusTv). And I also co-founded [The Feur Company](https://github.com/Feur-Company) with my friend [@ronzaigu](https://github.com/ronzaigu) to make funny (but cool) repos. 
 
 ### My passions :
 
