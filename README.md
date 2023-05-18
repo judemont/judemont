@@ -6,7 +6,7 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
 ### My passions :
 * Programmation 
-* Free and Open Sourc
+* Free and Open Source
 * Technologies
 * law
 * Sciences
