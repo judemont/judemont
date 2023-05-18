@@ -15,6 +15,8 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
 ## Have fun with my repositories.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9173) 
