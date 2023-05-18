@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-## 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀<br>### Languages<br>1. Python<br>2. JavaScript/TypeScript<br>3. PHP<br>4. html<br>5. css<br>## You can visit my website : [rmbi.ch/jdm](https://rmbi.ch/jdm)<br><br>### I am part of the Organization: [Asterjdm](https://github.com/asterjdm) and [Feur Company](https://github.com/Feur-Company). I co-founded Asterjdm with my friend [@Asteroidus](https://github.com/AstroidusTv). And I also co-founded [The Feur Company](https://github.com/Feur-Company) with my friend [@ronzaigu](https://github.com/ronzaigu) to make funny (but cool) repos. <br><br>### My passions :<br><br>* Programmation<br>* Free and Open Source<br>* Technologies<br>* law<br>* Sciences<br><br><br>### I'm from switzerland 🇨🇭, I speak French and some English.<br><br><br>## Have fun with my repositories.<br><br>
+👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
+
+## You can visit my website : [rmbi.ch/jdm](https://rmbi.ch/jdm)<br><br>### I am part of the Organization: [Asterjdm](https://github.com/asterjdm) and [Feur Company](https://github.com/Feur-Company). I co-founded Asterjdm with my friend [@Asteroidus](https://github.com/AstroidusTv). And I also co-founded [The Feur Company](https://github.com/Feur-Company) with my friend [@ronzaigu](https://github.com/ronzaigu) to make funny (but cool) repos. <br><br>### My passions :<br><br>* Programmation<br>* Free and Open Source<br>* Technologies<br>* law<br>* Sciences<br><br><br>### I'm from switzerland 🇨🇭, I speak French and some English.<br><br><br>## Have fun with my repositories.<br><br>
 
 
 ## 🌐 Socials:
