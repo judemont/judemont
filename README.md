@@ -19,7 +19,8 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
-[Telegram]https://t.me/judemont)
+
+[![telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/judemont)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9173) 
 
 
