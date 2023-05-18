@@ -20,3 +20,7 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: judemont/judemont
