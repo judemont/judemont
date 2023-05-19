@@ -16,6 +16,21 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 ## Have fun with my repositories.
 
 <!--START_SECTION:waka-->
+
+```text
+From: 17 May 2023 - To: 18 May 2023
+
+Total Time: 1 hr 50 mins
+
+JavaScript   1 hr 34 mins    >>>>>>>>>>>>>>>>>>>>>----   85.56 %
+JSON         9 mins          >>-----------------------   08.33 %
+Vue.js       3 mins          >------------------------   03.35 %
+XML          2 mins          >------------------------   02.14 %
+Other        0 secs          -------------------------   00.52 %
+Text         0 secs          -------------------------   00.09 %
+HTML         0 secs          -------------------------   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
