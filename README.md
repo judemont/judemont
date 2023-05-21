@@ -1,5 +1,9 @@
 # 💫 About Me:
 
+
+[![wakatime](https://wakatime.com/badge/user/39988ec3-db8e-4aab-ae07-335d7359e000.svg)](https://wakatime.com/@39988ec3-db8e-4aab-ae07-335d7359e000)
+
+
 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
 
 My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
