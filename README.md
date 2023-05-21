@@ -15,25 +15,7 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
 ## Have fun with my repositories.
 
-<!--START_SECTION:waka-->
-
-```text
-From: 17 May 2023 - To: 19 May 2023
-
-Total Time: 3 hrs 39 mins
-
-Vue.js       1 hr 44 mins    >>>>>>>>>>>>-------------   47.63 %
-JavaScript   1 hr 35 mins    >>>>>>>>>>>--------------   43.40 %
-JSON         15 mins         >>-----------------------   06.94 %
-XML          2 mins          -------------------------   01.07 %
-Docker       1 min           -------------------------   00.60 %
-Other        0 secs          -------------------------   00.26 %
-Text         0 secs          -------------------------   00.04 %
-Bash         0 secs          -------------------------   00.04 %
-HTML         0 secs          -------------------------   00.01 %
-```
-
-<!--END_SECTION:waka-->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=judemont)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 
