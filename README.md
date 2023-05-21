@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-[![wakatime](https://wakatime.com/badge/user/39988ec3-db8e-4aab-ae07-335d7359e000.svg)](https://wakatime.com/@39988ec3-db8e-4aab-ae07-335d7359e000)
+![wakatime](https://wakapi.dev/api/badge/judemont/interval:today?label=today)
 
 
 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
@@ -19,7 +19,7 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 
 ## Have fun with my repositories.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=judemont)](https://github.com/anuraghazra/github-readme-stats)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ## 🌐 Socials:
 
