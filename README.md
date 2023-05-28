@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 
+
 ![wakatime](https://wakapi.dev/api/badge/judemont/interval:today?label=today)
 
 
@@ -15,12 +16,17 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 * law
 * Sciences
 
+
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
+
 ### I'm from switzerland 🇨🇭, I speak French and some English.
 
 ## Have fun with my repositories.
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
 ![top](https://api.githubtrends.io/user/svg/judemont/repos?time_range=one_year&group=other&theme=dark)
+![top](https://api.githubtrends.io/user/svg/judemont/langs?time_range=one_year&group=other&theme=dark)
 
 ## 🌐 Socials:
 
