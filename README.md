@@ -20,6 +20,7 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 ## Have fun with my repositories.
 
 ![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![top](https://api.githubtrends.io/user/svg/judemont/repos?time_range=one_year&group=other&theme=dark)
 
 ## 🌐 Socials:
 
@@ -36,8 +37,6 @@ My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=judemont&theme=dracula&utcOffset=2)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=judemont&theme=dracula)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=judemont&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
