@@ -7,7 +7,7 @@
 
 👋 Hi! I am JdM or Judemont (Pseudos). I'm 14 years old and I love programming awesome projects, in many languages, to improve myself 🚀
 
-My website : [rmbi.ch/jdm](https://rmbi.ch/jdm)
+### Go to my website :  [rmbi.ch/jdm](https://rmbi.ch/jdm) !,
 
 ### Try my search engine : [Cosmos Search](https://cosmosearch.vercel.app) !!
 
