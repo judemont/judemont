@@ -9,7 +9,7 @@
 
 ### Go to my website :  [rmbi.ch/jdm](https://rmbi.ch/jdm) !!
 
-### Try my search engine : [Cosmos Search](https://cosmosearch.vercel.app) !!
+
 
 ### My passions :
 * Programmation 
