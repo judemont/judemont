@@ -19,8 +19,7 @@
 * Sciences
 
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-
+<img src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
 
 ### I'm from switzerland 🇨🇭, I speak French and some English.
 
