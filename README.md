@@ -20,7 +20,7 @@
 
 
 
- ![wakatime](https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=judemont&theme=tokyonight)
+ 
 
 
 ### I'm from switzerland 🇨🇭, I speak French and some English.
