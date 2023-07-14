@@ -19,7 +19,9 @@
 * Sciences
 
 
-<img src=https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=Nixuge&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
+
+ ![wakatime](https://github-readme-stats-rust-kappa.vercel.app/api/wakatime?username=judemont&theme=tokyonight)
+
 
 ### I'm from switzerland 🇨🇭, I speak French and some English.
 
