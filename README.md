@@ -28,8 +28,7 @@
 ## Have fun with my repositories.
 
 
-![top](https://api.githubtrends.io/user/svg/judemont/repos?time_range=one_year&group=other&theme=dark)
-![top](https://api.githubtrends.io/user/svg/judemont/langs?time_range=one_year&group=other&theme=dark)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 
