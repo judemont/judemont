@@ -5,7 +5,7 @@
 ![wakatime](https://wakapi.dev/api/badge/judemont/interval:today?label=today)
 
 
-👋 Hi ! I'm JdM, also known as Judemont. I'm all about programming awesome projects in various languages to constantly level up my skills. Let's code and improve together! 🚀
+__👋 Hi ! I'm JdM, also known as Judemont. I'm all about programming awesome projects in various languages to constantly level up my skills. Let's code and improve together! 🚀__
 
 ### Go to my website :  [rmbi.ch/jdm](https://rmbi.ch/jdm) !!
 
