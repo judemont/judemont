@@ -50,6 +50,4 @@ __👋 Hi ! I'm JdM, also known as Judemont. I'm all about programming awesome p
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=judemont&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
