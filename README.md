@@ -25,8 +25,6 @@ __👋 Hi ! I'm JdM, also known as Judemont. I'm all about programming awesome p
 ## Have fun with my repositories.
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=judemont&api_domain=wakapi.dev&bg_color=2D3748&title_color=fafafa&icon_color=2F855A&text_color=ffffff&custom_title=My%20Stats%20%F0%9F%9A%80&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## 🌐 Socials:
