@@ -4,27 +4,12 @@
 
 __👋 Hi ! I'm JdM, also known as Judemont. I'm all about programming awesome projects in various languages to constantly level up my skills. Let's code and improve together! 🚀__
 
-### Go to my website :  [jdm.rmbi.ch](https://jdm.rmbi.ch) !!
+### My WebSite :  [jdm.rmbi.ch](https://jdm.rmbi.ch) !!
 
 
-
-### My passions :
-* Programmation 
-* Free and Open Source
-* Technologies
-* law
-* Sciences
-
-
-
- 
 
 
 ### I'm from switzerland 🇨🇭, I speak French and some English.
-
-## Have fun with my repositories.
-
-
 
 
 ## 🌐 Socials:
