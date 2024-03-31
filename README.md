@@ -9,6 +9,8 @@ I'm still at school, but in my spare time I like to code useful and not-so-usefu
 For me, IT, development and the Internet are a world of innovation limited only by the imagination of motivated people.
 
 I'm trying through my projects and my usages to promote a more free, open and fun internet. 
+
+
 I'm from switzerland 🇨🇭, I speak French and some English.
 
 
