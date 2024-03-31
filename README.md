@@ -12,7 +12,7 @@ I'm trying through my projects and my usages to promote a more free, open and fu
 I'm from switzerland 🇨🇭, I speak French and some English.
 
 
-## 🌐 Socials:
+## 🌐 Contact me:
 
 [![telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/judemont)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9173) 
