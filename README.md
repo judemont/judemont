@@ -19,7 +19,7 @@ I'm from switzerland 🇨🇭, I speak French and some English.
 - [Signal](https://signal.me/#eu/wzJyfbnckMMmu5jw+RV/qivMpQmMCKl674adHd1aQ+opeF++NaFFpIOQ3bGnMI1n)
 - [Telegram](https://t.me/judemont)
 - [Discord](https://discord.gg/9173)
-- [EMail](mailto:julien@rmbi.ch?subject=Hello)
+- [Mail](mailto:julien@rmbi.ch?subject=Hello)
 
 
 
