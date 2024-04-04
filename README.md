@@ -25,11 +25,6 @@ I'm from switzerland 🇨🇭, I speak French and some English.
 
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 ---
+![image](https://github.com/judemont/judemont/assets/96385330/4d206529-e5f5-4ce7-a6b5-6c7a0fa1fa04)
 
