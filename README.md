@@ -24,7 +24,7 @@ I'm from switzerland 🇨🇭, I speak French and some English.
 ## Donate :
 Bitcoin: 
 ```
-bc1qhedccjcsnxggwp69tt5vluenqdweh52gezrud4
+bc1qkw30v45sx5uwpyzv44kr4tv4gwn7uykqwjfkf2
 ```
 
 Bitcoin Lightning: 
