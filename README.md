@@ -22,6 +22,8 @@ I'm from switzerland 🇨🇭, I speak French and some English.
 - [Mail](mailto:julien@rmbi.ch?subject=Hello)
 
 ## Donate :
+<a href="https://www.buymeacoffee.com/judemont"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=judemont&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 Bitcoin: 
 ```
 bc1qkw30v45sx5uwpyzv44kr4tv4gwn7uykqwjfkf2
