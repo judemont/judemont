@@ -3,7 +3,7 @@
 
 
 Hi, I'm JdM, also known as Judemont.
-I'm an IT student and in my free time, I enjoy coding projects, whether they're useful or just for fun.
+I'm an IT student and in my free time, I enjoy coding projects, whether they're useful or just for fun !
 
 For me, IT, development and the Internet are a world of innovation limited only by the imagination of motivated people.
 
