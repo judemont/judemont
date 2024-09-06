@@ -3,12 +3,11 @@
 
 
 Hi, I'm JdM, also known as Judemont.
-
-I'm still at school, but in my spare time I like to code useful and not-so-useful projects.
+I'm an IT student and in my free time, I enjoy coding projects, whether they're useful or just for fun.
 
 For me, IT, development and the Internet are a world of innovation limited only by the imagination of motivated people.
 
-I'm trying through my projects and my usages to promote a more free, open and fun internet. 
+I'm trying through my projects and my usages to promote a more *free*, *open* and *fun* internet. 
 
 
 I'm from switzerland 🇨🇭, I speak French and some English.
