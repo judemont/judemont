@@ -37,10 +37,9 @@ Ethereum:
 
 
 
-
+![setup](https://github.com/user-attachments/assets/173887b2-20fc-4165-b912-c7a7fd965588)
 
 ---
-![image](https://github.com/judemont/judemont/assets/96385330/4d206529-e5f5-4ce7-a6b5-6c7a0fa1fa04)
 
 
 
