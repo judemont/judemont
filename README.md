@@ -20,8 +20,6 @@ I'm from switzerland 🇨🇭, I speak French and some English.
 - [Mail](mailto:julien@rmbi.ch?subject=Hello)
 
 ## Support My Work :
-<a href="https://www.buymeacoffee.com/judemont"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=judemont&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-<a href="https://liberapay.com/judemont/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 Bitcoin: 
 ```
