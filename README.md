@@ -26,13 +26,15 @@ Bitcoin:
 bc1qhmkpytvs42w27pgqrk7kljy5hvarzx6tll8ar6
 ```
 
-
 Ethereum:
 ```
 0xa15340Ef9C6048345Ae9f21a5A20B00c93b742EC
 ```
 
-
+Alephium:
+```
+1DEJiWxCfKCXFDYraGrFtHv1iv9xoNcSaLx1Zr24Ptfp1
+```
 
 ![setup](https://github.com/user-attachments/assets/173887b2-20fc-4165-b912-c7a7fd965588)
 
