@@ -31,6 +31,11 @@ Ethereum:
 0xa15340Ef9C6048345Ae9f21a5A20B00c93b742EC
 ```
 
+Monero:
+```
+49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn
+```
+
 Alephium:
 ```
 1DEJiWxCfKCXFDYraGrFtHv1iv9xoNcSaLx1Zr24Ptfp1
