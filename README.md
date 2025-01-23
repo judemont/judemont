@@ -11,7 +11,7 @@ I would like to build a world of innovation. A more free world. A world where on
 
 *A world that would benefit all of humanity.*
 
-I believe that many people are aware of these issues. All that's left is to find **solutions**.
+I believe that many people are aware of these issues. My goal is to imagine **solutions**.
 
 ## 🌐 Contact me:
 - [Signal](https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u)
