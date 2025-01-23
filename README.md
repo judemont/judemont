@@ -36,10 +36,6 @@ Monero:
 49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn
 ```
 
-Alephium:
-```
-1DEJiWxCfKCXFDYraGrFtHv1iv9xoNcSaLx1Zr24Ptfp1
-```
 
 ![setup](https://github.com/user-attachments/assets/173887b2-20fc-4165-b912-c7a7fd965588)
 
