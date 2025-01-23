@@ -1,17 +1,11 @@
 # 💫 About Me:
 
 
+I devote my time to Imagining and Creating the Future of the Humanity 🌐. A future we all want.
 
-Hi, I'm JdM, also known as Judemont.
-I'm an IT student and in my free time, I enjoy coding useful and not-so-useful projects.
+Hi i'm JdM. I'm passionate about development. As a computer science student I use my skills in this field to innovate and create while contributing to a more free, open and secure internet.
 
-For me, IT, development and the Internet are a world of innovation limited only by the imagination of motivated people.
-
-I'm trying through my projects and my usages to promote a more *free*, *open* and *fun* internet. 
-
-
-I'm from switzerland 🇨🇭, I speak French and some English.
-
+Far beyond the digital realm, I want to bring my motivation to the real world by sharing my ideas and my determination to improve the world.
 
 ## 🌐 Contact me:
 - [Signal](https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u)
