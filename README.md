@@ -7,6 +7,10 @@ Hi i'm JdM. I'm passionate about development. As a computer science student I us
 
 Far beyond the digital realm, I want to bring my motivation to the real world by sharing my ideas and my determination to improve the world.
 
+I would like to build a world of innovation. A more free world. A world where online privacy is not violated. A more prosperous world. A more sustainable world. But also a world of peace. 
+*A world that would benefit all of humanity.*
+I believe that many people are aware of these issues. All that's left is to find **solutions**.
+
 ## 🌐 Contact me:
 - [Signal](https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u)
 - [Telegram](https://t.me/judemont)
