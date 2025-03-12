@@ -25,11 +25,6 @@ Bitcoin:
 bc1qhmkpytvs42w27pgqrk7kljy5hvarzx6tll8ar6
 ```
 
-Ethereum:
-```
-0xa15340Ef9C6048345Ae9f21a5A20B00c93b742EC
-```
-
 Monero:
 ```
 49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn
