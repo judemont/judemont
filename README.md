@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-I create solutions optimized for computers, comfortable for users and innovative for the world. 🌐
+I create digital solutions optimized for computers, comfortable for users and innovative for the world. 🌐
 
 Hi i'm JdM. I'm passionate about development. As a computer science student I use my skills in this field to innovate and create while contributing to a more free, open and secure internet.
 
