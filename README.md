@@ -13,7 +13,7 @@ I would like to build a world of innovation. A more free world. A world where on
 
 I believe that many people are aware of these issues. My goal is to imagine **solutions**.
 
-[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=username/repository)](https://noskid.today)
+[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=judemont/judemont)](https://noskid.today)
 
 ## 🌐 Contact me:
 - [Signal](https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u)
