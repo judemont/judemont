@@ -1,6 +1,6 @@
 
 # I'm moving from GitHub to Codeberg. 
-## Find me and all my projects on Codeberg:: https://codeberg.org/judemont
+## Find me and all my projects on Codeberg: https://codeberg.org/judemont
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
 
