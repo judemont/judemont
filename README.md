@@ -4,6 +4,7 @@
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
 
+*Image from https://giveupgithub.org/*
 
 ---
 
