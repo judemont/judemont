@@ -24,13 +24,10 @@ I believe that many people are aware of these issues. My goal is to imagine **so
 
 Bitcoin: 
 ```
-bc1qhmkpytvs42w27pgqrk7kljy5hvarzx6tll8ar6
+36JLK52aFRHghE1iBeffrzkZzNwWStFkKd
 ```
 
-Monero:
-```
-49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn
-```
+
 
 
 ![setup](https://github.com/user-attachments/assets/173887b2-20fc-4165-b912-c7a7fd965588)
