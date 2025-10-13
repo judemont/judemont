@@ -31,12 +31,7 @@ I believe that many people are aware of these issues. My goal is to imagine **so
 - [Telegram](https://t.me/judemont)
 - [Mail](mailto:julien@rmbi.ch?subject=Hello)
 
-## Support My Work :
-
-Bitcoin: 
-```
-36JLK52aFRHghE1iBeffrzkZzNwWStFkKd
-```
+# [Sponsor me, support my vision, and change the world](https://futureofthe.tech/)
 
 
 
