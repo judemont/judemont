@@ -1,16 +1,16 @@
 
-# I'm moving from GitHub to Codeberg. 
 ## Find me and all my projects on Codeberg: https://codeberg.org/judemont
-
-<img src='https://sfconservancy.org/static/img/GiveUpGitHub.png' width='200' />
-
-*Image from https://giveupgithub.org/*
-
 ---
 
 
 # 💫 About Me:
 
+```JdmScript
+// Optimized for computers
+// Comfortable for users
+// Innovative for the world
+// Decentralized for our freedom
+````
 
 I create digital solutions optimized for computers, comfortable for users and innovative for the world. 🌐
 
