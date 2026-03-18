@@ -1,7 +1,4 @@
 
-## Find me and all my projects on Codeberg: https://codeberg.org/judemont
----
-
 
 # 💫 About Me:
 
